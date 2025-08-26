@@ -2,7 +2,7 @@
 
 This is my personal GitHub Pages site, built to showcase my work, projects, and research.  
 
-🌐 You can visit it here: **[jupark814.github.io](https://jupark814.github.io)**  
+🌐 You can visit it here: **[jang-uk-park.github.io](https://jang-uk-park.github.io)**  
 (or whatever your GitHub Pages URL is)
 
 ---
